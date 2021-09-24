@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CarDealer.Class.Store">
+    <Position X="5.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAgBAAACgAAAAAAAAQCAAAIAAIAAAAAAAgAgABA=</HashCode>
+      <FileName>Class\Store.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="People.Class.User">
+    <Position X="1.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="People.Class.Employee">
+    <Position X="3" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="People.Class.Client">
+    <Position X="1" Y="9.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Storage.Class.Vehicle">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Storage.Class.Motorcycle">
+    <Position X="10.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Storage.Class.Bicycle">
+    <Position X="12.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Storage.Class.Automobile">
+    <Position X="8.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Storage.Class.Airplane">
+    <Position X="15" Y="11.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="Storage.Interface.IDataSheet">
+    <Position X="13" Y="7.25" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Interface Name="Storage.Interface.IMotor">
+    <Position X="8.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

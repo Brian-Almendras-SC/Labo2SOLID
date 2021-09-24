@@ -1,0 +1,14 @@
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\bin\Debug\netcoreapp3.1\People.exe
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\bin\Debug\netcoreapp3.1\People.deps.json
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\bin\Debug\netcoreapp3.1\People.runtimeconfig.json
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\bin\Debug\netcoreapp3.1\People.runtimeconfig.dev.json
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\bin\Debug\netcoreapp3.1\People.dll
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\bin\Debug\netcoreapp3.1\People.pdb
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\obj\Debug\netcoreapp3.1\People.csproj.AssemblyReference.cache
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\obj\Debug\netcoreapp3.1\People.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\obj\Debug\netcoreapp3.1\People.AssemblyInfoInputs.cache
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\obj\Debug\netcoreapp3.1\People.AssemblyInfo.cs
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\obj\Debug\netcoreapp3.1\People.csproj.CoreCompileInputs.cache
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\obj\Debug\netcoreapp3.1\People.dll
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\obj\Debug\netcoreapp3.1\People.pdb
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\People\obj\Debug\netcoreapp3.1\People.genruntimeconfig.cache

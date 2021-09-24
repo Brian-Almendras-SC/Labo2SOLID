@@ -1,0 +1,14 @@
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\bin\Debug\netcoreapp3.1\Storage.exe
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\bin\Debug\netcoreapp3.1\Storage.deps.json
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\bin\Debug\netcoreapp3.1\Storage.runtimeconfig.json
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\bin\Debug\netcoreapp3.1\Storage.runtimeconfig.dev.json
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\bin\Debug\netcoreapp3.1\Storage.dll
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\bin\Debug\netcoreapp3.1\Storage.pdb
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\obj\Debug\netcoreapp3.1\Storage.csproj.AssemblyReference.cache
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\obj\Debug\netcoreapp3.1\Storage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\obj\Debug\netcoreapp3.1\Storage.AssemblyInfoInputs.cache
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\obj\Debug\netcoreapp3.1\Storage.AssemblyInfo.cs
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\obj\Debug\netcoreapp3.1\Storage.csproj.CoreCompileInputs.cache
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\obj\Debug\netcoreapp3.1\Storage.dll
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\obj\Debug\netcoreapp3.1\Storage.pdb
+D:\Arquitectura software\Tarea3-CarDealer-Solid\CarDealer\Storage\obj\Debug\netcoreapp3.1\Storage.genruntimeconfig.cache
